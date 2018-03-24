@@ -1,6 +1,6 @@
+#include <iostream>
 using namespace std;
-#include <iostream.h>
 int main()
 {
-cout << "\nRITI";
+cout << "\nMY NAME IS RITI !!!!!!!!!!!!!!!\n";
 }
